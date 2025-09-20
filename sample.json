@@ -1,10 +1,8 @@
 {
-    "featureFlags": {
-        "newDashboard": true,
-        "betaUserOnboarding": false,
-        "enableDarkMode": true,
-        "advancedSearch": false,
-        "experimentalApi": false,
-        "multiLanguageSupport": true
-    }
+    "newDashboard": true,
+    "betaUserOnboarding": false,
+    "enableDarkMode": true,
+    "advancedSearch": false,
+    "experimentalApi": false,
+    "multiLanguageSupport": true
 }
